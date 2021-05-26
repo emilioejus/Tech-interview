@@ -1,0 +1,71 @@
+{
+    "initalState": {
+      "mylist": [],
+      "people": [
+        {
+          "id": 1,
+          "name": "Daniel",
+          "surname": "Roberto",
+          "lastname": "Scripted",
+          "language": "English",
+          "email": "dani_02@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Shakira",
+            "surname": "Li",
+            "lastname": "Shinai",
+            "language": "Japan",
+            "email": "shinai@gmail.com"
+          },
+          {
+            "id": 3,
+            "name": "Dariana",
+            "surname": "Maria",
+            "lastname": "castro",
+            "language": "Español",
+            "email": "dari-castro@gmail.com"
+          },
+          {
+            "id": 4,
+            "name": "Daniela",
+            "surname": "Del Valle",
+            "lastname": "Mendez",
+            "language": "Español",
+            "email": "medez007@gmail.com"
+          },
+          {
+            "id": 5,
+            "name": "Maria",
+            "surname": "Jose",
+            "lastname": "Barreto",
+            "language": "English",
+            "email": "mariaB@gmail.com"
+          },
+          {
+            "id": 6,
+            "name": "Dario",
+            "surname": "Roberto",
+            "lastname": "Nadal",
+            "language": "English",
+            "email": "nadal-nadal@gmail.com"
+          },
+          {
+            "id": 7,
+            "name": "Nayiel",
+            "surname": "Zafiro",
+            "lastname": "Lalale",
+            "language": "Arabe",
+            "email": "nayiel-lala@gmail.com"
+          },
+          {
+            "id": 8,
+            "name": "Checova",
+            "surname": "Darinota",
+            "lastname": "Espekof",
+            "language": "Polaca",
+            "email": "espekof-15@gmail.com"
+          }
+      ]
+    }
+  }

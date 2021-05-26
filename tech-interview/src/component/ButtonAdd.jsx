@@ -6,7 +6,7 @@ const ButtonAdd = props=> {
 
     return(
         <>
-        <button onClick= {add} type="button" class="btn btn-success">{place}</button>
+        <button onClick= {add} type="button" className="btn btn-success">{place}</button>
         </>
     )
 }
